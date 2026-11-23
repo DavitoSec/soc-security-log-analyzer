@@ -1,0 +1,150 @@
+2026-11-17T23:53:28.500942+01:00 ubuntu-prod-01 sshd[3327]: Server listening on 0.0.0.0 port 22.
+2026-11-17T23:53:28.501302+01:00 ubuntu-prod-01 sshd[3327]: Server listening on :: port 22.
+2026-11-17T23:53:34.365637+01:00 ubuntu-prod-01 sshd-session[3329]: Accepted password for analista from 10.0.2.6 port 37424 ssh2
+2026-11-17T23:58:47.610480+01:00 ubuntu-prod-01 sshd-session[7464]: Invalid user hacker_test from 127.0.0.1 port 42422
+2026-11-17T23:58:54.991240+01:00 ubuntu-prod-01 sshd-session[7464]: Failed password for invalid user hacker_test from 127.0.0.1 port 42422 ssh2
+2026-11-17T23:58:57.959779+01:00 ubuntu-prod-01 sshd-session[7464]: Failed password for invalid user hacker_test from 127.0.0.1 port 42422 ssh2
+2026-11-17T23:59:03.407015+01:00 ubuntu-prod-01 sshd-session[7464]: Failed password for invalid user hacker_test from 127.0.0.1 port 42422 ssh2
+2026-11-17T23:59:04.054917+01:00 ubuntu-prod-01 sshd-session[7467]: Invalid user hacker_test from 127.0.0.1 port 44226
+2026-11-17T23:59:10.773526+01:00 ubuntu-prod-01 sshd-session[7467]: Failed password for invalid user hacker_test from 127.0.0.1 port 44226 ssh2
+2026-11-17T23:59:14.905948+01:00 ubuntu-prod-01 sshd-session[7467]: Failed password for invalid user hacker_test from 127.0.0.1 port 44226 ssh2
+2026-11-17T23:59:27.128650+01:00 ubuntu-prod-01 sshd-session[7467]: Failed password for invalid user hacker_test from 127.0.0.1 port 44226 ssh2
+2026-11-17T23:59:30.038302+01:00 ubuntu-prod-01 sshd-session[7472]: Invalid user hacker_test from 127.0.0.1 port 37176
+2026-11-17T23:59:32.534337+01:00 ubuntu-prod-01 sshd-session[7472]: Failed password for invalid user hacker_test from 127.0.0.1 port 37176 ssh2
+2026-11-17T23:59:38.174688+01:00 ubuntu-prod-01 sshd-session[7472]: Failed password for invalid user hacker_test from 127.0.0.1 port 37176 ssh2
+2026-11-17T23:59:43.413928+01:00 ubuntu-prod-01 sshd-session[7472]: Failed password for invalid user hacker_test from 127.0.0.1 port 37176 ssh2
+2026-11-17T23:59:44.468295+01:00 ubuntu-prod-01 sshd-session[7475]: Invalid user hacker_test from 127.0.0.1 port 59488
+2026-11-17T23:59:48.013011+01:00 ubuntu-prod-01 sshd-session[7475]: Failed password for invalid user hacker_test from 127.0.0.1 port 59488 ssh2
+2026-11-17T23:59:52.950937+01:00 ubuntu-prod-01 sshd-session[7475]: Failed password for invalid user hacker_test from 127.0.0.1 port 59488 ssh2
+2026-11-17T23:59:57.616859+01:00 ubuntu-prod-01 sshd-session[7475]: Failed password for invalid user hacker_test from 127.0.0.1 port 59488 ssh2
+2026-11-17T23:59:58.264239+01:00 ubuntu-prod-01 sshd-session[7478]: Invalid user hacker_test from 127.0.0.1 port 49448
+2026-11-18T00:00:02.330283+01:00 ubuntu-prod-01 sshd-session[7478]: Failed password for invalid user hacker_test from 127.0.0.1 port 49448 ssh2
+2026-11-18T00:00:06.471063+01:00 ubuntu-prod-01 sshd-session[7478]: Failed password for invalid user hacker_test from 127.0.0.1 port 49448 ssh2
+2026-11-18T00:00:10.429756+01:00 ubuntu-prod-01 sshd-session[7478]: Failed password for invalid user hacker_test from 127.0.0.1 port 49448 ssh2
+2026-11-18T00:24:05.176801+01:00 ubuntu-prod-01 sshd-session[7947]: Invalid user admin_backup from 10.0.2.6 port 44860
+2026-11-18T00:24:17.014275+01:00 ubuntu-prod-01 sshd-session[7947]: Failed password for invalid user admin_backup from 10.0.2.6 port 44860 ssh2
+2026-11-18T00:24:43.466668+01:00 ubuntu-prod-01 sshd-session[7947]: Failed password for invalid user admin_backup from 10.0.2.6 port 44860 ssh2
+2026-11-18T00:24:52.725031+01:00 ubuntu-prod-01 sshd-session[7947]: Failed password for invalid user admin_backup from 10.0.2.6 port 44860 ssh2
+2026-11-18T13:56:59.025379+01:00 ubuntu-prod-01 sshd-session[11725]: Accepted password for analista from 10.0.2.6 port 46583 ssh2
+2026-11-18T14:06:55.493623+01:00 ubuntu-prod-01 sshd-session[12082]: Invalid user admin_backup from 10.0.2.6 port 44112
+2026-11-18T14:06:55.827350+01:00 ubuntu-prod-01 sshd-session[12086]: Invalid user admin_backup from 10.0.2.6 port 44152
+2026-11-18T14:06:55.832173+01:00 ubuntu-prod-01 sshd-session[12085]: Invalid user admin_backup from 10.0.2.6 port 44138
+2026-11-18T14:06:55.833247+01:00 ubuntu-prod-01 sshd-session[12088]: Invalid user admin_backup from 10.0.2.6 port 44124
+2026-11-18T14:06:55.834686+01:00 ubuntu-prod-01 sshd-session[12084]: Invalid user admin_backup from 10.0.2.6 port 44134
+2026-11-18T14:06:57.835540+01:00 ubuntu-prod-01 sshd-session[12085]: Failed password for invalid user admin_backup from 10.0.2.6 port 44138 ssh2
+2026-11-18T14:06:57.836185+01:00 ubuntu-prod-01 sshd-session[12086]: Failed password for invalid user admin_backup from 10.0.2.6 port 44152 ssh2
+2026-11-18T14:06:57.992946+01:00 ubuntu-prod-01 sshd-session[12084]: Failed password for invalid user admin_backup from 10.0.2.6 port 44134 ssh2
+2026-11-18T14:06:58.522577+01:00 ubuntu-prod-01 sshd-session[12088]: Failed password for invalid user admin_backup from 10.0.2.6 port 44124 ssh2
+2026-11-18T14:07:00.014975+01:00 ubuntu-prod-01 sshd-session[12085]: Failed password for invalid user admin_backup from 10.0.2.6 port 44138 ssh2
+2026-11-18T14:07:00.601979+01:00 ubuntu-prod-01 sshd-session[12084]: Failed password for invalid user admin_backup from 10.0.2.6 port 44134 ssh2
+2026-11-18T14:07:00.950733+01:00 ubuntu-prod-01 sshd-session[12086]: Failed password for invalid user admin_backup from 10.0.2.6 port 44152 ssh2
+2026-11-18T14:07:01.301179+01:00 ubuntu-prod-01 sshd-session[12088]: Failed password for invalid user admin_backup from 10.0.2.6 port 44124 ssh2
+2026-11-18T14:07:01.442229+01:00 ubuntu-prod-01 sshd-session[12085]: Failed password for invalid user admin_backup from 10.0.2.6 port 44138 ssh2
+2026-11-18T14:07:03.873484+01:00 ubuntu-prod-01 sshd-session[12084]: Failed password for invalid user admin_backup from 10.0.2.6 port 44134 ssh2
+2026-11-18T14:07:03.876027+01:00 ubuntu-prod-01 sshd-session[12088]: Failed password for invalid user admin_backup from 10.0.2.6 port 44124 ssh2
+2026-11-18T14:07:03.876339+01:00 ubuntu-prod-01 sshd-session[12085]: Failed password for invalid user admin_backup from 10.0.2.6 port 44138 ssh2
+2026-11-18T14:07:03.947381+01:00 ubuntu-prod-01 sshd-session[12086]: Failed password for invalid user admin_backup from 10.0.2.6 port 44152 ssh2
+2026-11-18T14:07:06.917230+01:00 ubuntu-prod-01 sshd-session[12085]: Failed password for invalid user admin_backup from 10.0.2.6 port 44138 ssh2
+2026-11-18T14:07:06.917685+01:00 ubuntu-prod-01 sshd-session[12084]: Failed password for invalid user admin_backup from 10.0.2.6 port 44134 ssh2
+2026-11-18T14:07:07.028038+01:00 ubuntu-prod-01 sshd-session[12088]: Failed password for invalid user admin_backup from 10.0.2.6 port 44124 ssh2
+2026-11-18T14:07:07.532462+01:00 ubuntu-prod-01 sshd-session[12086]: Failed password for invalid user admin_backup from 10.0.2.6 port 44152 ssh2
+2026-11-18T14:07:09.917229+01:00 ubuntu-prod-01 sshd-session[12084]: Failed password for invalid user admin_backup from 10.0.2.6 port 44134 ssh2
+2026-11-18T14:07:09.919354+01:00 ubuntu-prod-01 sshd-session[12085]: Failed password for invalid user admin_backup from 10.0.2.6 port 44138 ssh2
+2026-11-18T14:07:09.919810+01:00 ubuntu-prod-01 sshd-session[12088]: Failed password for invalid user admin_backup from 10.0.2.6 port 44124 ssh2
+2026-11-18T14:07:09.921866+01:00 ubuntu-prod-01 sshd-session[12086]: Failed password for invalid user admin_backup from 10.0.2.6 port 44152 ssh2
+2026-11-18T14:07:10.408655+01:00 ubuntu-prod-01 sshd-session[12092]: Invalid user admin_backup from 10.0.2.6 port 58568
+2026-11-18T14:07:12.882894+01:00 ubuntu-prod-01 sshd-session[12092]: Failed password for invalid user admin_backup from 10.0.2.6 port 58568 ssh2
+2026-11-18T14:07:12.906649+01:00 ubuntu-prod-01 sshd-session[12086]: Failed password for invalid user admin_backup from 10.0.2.6 port 44152 ssh2
+2026-11-18T14:07:12.907119+01:00 ubuntu-prod-01 sshd-session[12088]: Failed password for invalid user admin_backup from 10.0.2.6 port 44124 ssh2
+2026-11-18T14:07:12.972688+01:00 ubuntu-prod-01 sshd-session[12084]: Failed password for invalid user admin_backup from 10.0.2.6 port 44134 ssh2
+2026-11-18T14:07:13.359059+01:00 ubuntu-prod-01 sshd-session[12094]: Invalid user admin_backup from 10.0.2.6 port 58578
+2026-11-18T14:07:13.389078+01:00 ubuntu-prod-01 sshd-session[12096]: Invalid user admin_backup from 10.0.2.6 port 58586
+2026-11-18T14:07:13.465816+01:00 ubuntu-prod-01 sshd[3327]: srclimit_penalise: 10.0.2.6/32: activating ipv4 penalty of 17 seconds for penalty: failed authentication
+2026-11-18T14:07:13.548525+01:00 ubuntu-prod-01 sshd-session[12098]: Invalid user admin_backup from 10.0.2.6 port 58600
+2026-11-18T14:07:15.820849+01:00 ubuntu-prod-01 sshd-session[12096]: Failed password for invalid user admin_backup from 10.0.2.6 port 58586 ssh2
+2026-11-18T14:07:15.822877+01:00 ubuntu-prod-01 sshd-session[12092]: Failed password for invalid user admin_backup from 10.0.2.6 port 58568 ssh2
+2026-11-18T14:07:15.824762+01:00 ubuntu-prod-01 sshd-session[12094]: Failed password for invalid user admin_backup from 10.0.2.6 port 58578 ssh2
+2026-11-18T14:07:16.913686+01:00 ubuntu-prod-01 sshd-session[12098]: Failed password for invalid user admin_backup from 10.0.2.6 port 58600 ssh2
+2026-11-18T14:07:18.907019+01:00 ubuntu-prod-01 sshd-session[12092]: Failed password for invalid user admin_backup from 10.0.2.6 port 58568 ssh2
+2026-11-18T14:07:18.977125+01:00 ubuntu-prod-01 sshd-session[12094]: Failed password for invalid user admin_backup from 10.0.2.6 port 58578 ssh2
+2026-11-18T14:07:18.977602+01:00 ubuntu-prod-01 sshd-session[12096]: Failed password for invalid user admin_backup from 10.0.2.6 port 58586 ssh2
+2026-11-18T14:07:21.118752+01:00 ubuntu-prod-01 sshd-session[12094]: Failed password for invalid user admin_backup from 10.0.2.6 port 58578 ssh2
+2026-11-18T14:07:21.905734+01:00 ubuntu-prod-01 sshd-session[12096]: Failed password for invalid user admin_backup from 10.0.2.6 port 58586 ssh2
+2026-11-18T14:07:21.906313+01:00 ubuntu-prod-01 sshd-session[12098]: Failed password for invalid user admin_backup from 10.0.2.6 port 58600 ssh2
+2026-11-18T14:07:22.104123+01:00 ubuntu-prod-01 sshd-session[12092]: Failed password for invalid user admin_backup from 10.0.2.6 port 58568 ssh2
+2026-11-18T14:07:25.756659+01:00 ubuntu-prod-01 sshd-session[12094]: Failed password for invalid user admin_backup from 10.0.2.6 port 58578 ssh2
+2026-11-18T14:07:25.757238+01:00 ubuntu-prod-01 sshd-session[12098]: Failed password for invalid user admin_backup from 10.0.2.6 port 58600 ssh2
+2026-11-18T14:07:25.757919+01:00 ubuntu-prod-01 sshd-session[12096]: Failed password for invalid user admin_backup from 10.0.2.6 port 58586 ssh2
+2026-11-18T14:07:25.758711+01:00 ubuntu-prod-01 sshd-session[12092]: Failed password for invalid user admin_backup from 10.0.2.6 port 58568 ssh2
+2026-11-18T14:07:28.491226+01:00 ubuntu-prod-01 sshd-session[12092]: Failed password for invalid user admin_backup from 10.0.2.6 port 58568 ssh2
+2026-11-18T14:07:28.686666+01:00 ubuntu-prod-01 sshd[3327]: drop connection #4 from [10.0.2.6]:49216 on [10.0.2.6]:22 penalty: failed authentication
+2026-11-18T14:07:28.905991+01:00 ubuntu-prod-01 sshd[3327]: drop connection #3 from [10.0.2.6]:49220 on [10.0.2.6]:22 penalty: failed authentication
+2026-11-18T14:07:29.133631+01:00 ubuntu-prod-01 sshd[3327]: drop connection #3 from [10.0.2.6]:49234 on [10.0.2.6]:22 penalty: failed authentication
+2026-11-18T14:07:29.364128+01:00 ubuntu-prod-01 sshd[3327]: drop connection #3 from [10.0.2.6]:49250 on [10.0.2.6]:22 penalty: failed authentication
+2026-11-18T14:07:29.591642+01:00 ubuntu-prod-01 sshd[3327]: drop connection #3 from [10.0.2.6]:49254 on [10.0.2.6]:22 penalty: failed authentication
+2026-11-18T14:07:29.819379+01:00 ubuntu-prod-01 sshd[3327]: drop connection #3 from [10.0.2.6]:49266 on [10.0.2.6]:22 penalty: failed authentication
+2026-11-18T14:07:30.045718+01:00 ubuntu-prod-01 sshd[3327]: drop connection #3 from [10.0.2.6]:49274 on [10.0.2.6]:22 penalty: failed authentication
+2026-11-18T14:07:30.271928+01:00 ubuntu-prod-01 sshd[3327]: drop connection #3 from [10.0.2.6]:49290 on [10.0.2.6]:22 penalty: failed authentication
+2026-11-18T14:07:30.482972+01:00 ubuntu-prod-01 sshd-session[12098]: Failed password for invalid user admin_backup from 10.0.2.6 port 58600 ssh2
+2026-11-18T14:07:30.483839+01:00 ubuntu-prod-01 sshd-session[12094]: Failed password for invalid user admin_backup from 10.0.2.6 port 58578 ssh2
+2026-11-18T14:07:30.484201+01:00 ubuntu-prod-01 sshd-session[12096]: Failed password for invalid user admin_backup from 10.0.2.6 port 58586 ssh2
+2026-11-18T14:07:30.503254+01:00 ubuntu-prod-01 sshd[3327]: drop connection #3 from [10.0.2.6]:49302 on [10.0.2.6]:22 penalty: failed authentication
+2026-11-18T14:07:32.557031+01:00 ubuntu-prod-01 sshd-session[12094]: Failed password for invalid user admin_backup from 10.0.2.6 port 58578 ssh2
+2026-11-18T14:07:33.095721+01:00 ubuntu-prod-01 sshd-session[12096]: Failed password for invalid user admin_backup from 10.0.2.6 port 58586 ssh2
+2026-11-18T14:07:33.096145+01:00 ubuntu-prod-01 sshd-session[12098]: Failed password for invalid user admin_backup from 10.0.2.6 port 58600 ssh2
+2026-11-18T14:07:33.630534+01:00 ubuntu-prod-01 sshd[3327]: drop connection #3 from [10.0.2.6]:49310 on [10.0.2.6]:22 penalty: failed authentication
+2026-11-18T14:07:33.646833+01:00 ubuntu-prod-01 sshd[3327]: drop connection #2 from [10.0.2.6]:49324 on [10.0.2.6]:22 penalty: failed authentication
+2026-11-18T14:07:33.656036+01:00 ubuntu-prod-01 sshd[3327]: drop connection #1 from [10.0.2.6]:49328 on [10.0.2.6]:22 penalty: failed authentication
+2026-11-18T14:07:35.937841+01:00 ubuntu-prod-01 sshd-session[12098]: Failed password for invalid user admin_backup from 10.0.2.6 port 58600 ssh2
+2026-11-18T14:13:56.754201+01:00 ubuntu-prod-01 sshd-session[12136]: Failed password for root from 10.0.2.6 port 45856 ssh2
+2026-11-18T14:13:57.108720+01:00 ubuntu-prod-01 sshd-session[12135]: Failed password for root from 10.0.2.6 port 45840 ssh2
+2026-11-18T14:13:57.516943+01:00 ubuntu-prod-01 sshd-session[12133]: Failed password for root from 10.0.2.6 port 45832 ssh2
+2026-11-18T14:13:57.517276+01:00 ubuntu-prod-01 sshd-session[12134]: Failed password for root from 10.0.2.6 port 45830 ssh2
+2026-11-18T14:14:01.921648+01:00 ubuntu-prod-01 sshd-session[12134]: Failed password for root from 10.0.2.6 port 45830 ssh2
+2026-11-18T14:14:02.432185+01:00 ubuntu-prod-01 sshd-session[12133]: Failed password for root from 10.0.2.6 port 45832 ssh2
+2026-11-18T14:14:02.432656+01:00 ubuntu-prod-01 sshd-session[12135]: Failed password for root from 10.0.2.6 port 45840 ssh2
+2026-11-18T14:14:02.432957+01:00 ubuntu-prod-01 sshd-session[12136]: Failed password for root from 10.0.2.6 port 45856 ssh2
+2026-11-18T14:14:04.770434+01:00 ubuntu-prod-01 sshd-session[12133]: Failed password for root from 10.0.2.6 port 45832 ssh2
+2026-11-18T14:14:05.874696+01:00 ubuntu-prod-01 sshd-session[12135]: Failed password for root from 10.0.2.6 port 45840 ssh2
+2026-11-18T14:14:06.187055+01:00 ubuntu-prod-01 sshd-session[12134]: Failed password for root from 10.0.2.6 port 45830 ssh2
+2026-11-18T14:14:07.254028+01:00 ubuntu-prod-01 sshd-session[12133]: Failed password for root from 10.0.2.6 port 45832 ssh2
+2026-11-18T14:14:07.973273+01:00 ubuntu-prod-01 sshd-session[12136]: Failed password for root from 10.0.2.6 port 45856 ssh2
+2026-11-18T14:14:09.462679+01:00 ubuntu-prod-01 sshd-session[12135]: Failed password for root from 10.0.2.6 port 45840 ssh2
+2026-11-18T14:14:09.701782+01:00 ubuntu-prod-01 sshd-session[12134]: Failed password for root from 10.0.2.6 port 45830 ssh2
+2026-11-18T14:14:11.493362+01:00 ubuntu-prod-01 sshd-session[12133]: Failed password for root from 10.0.2.6 port 45832 ssh2
+2026-11-18T14:14:11.875969+01:00 ubuntu-prod-01 sshd-session[12135]: Failed password for root from 10.0.2.6 port 45840 ssh2
+2026-11-18T14:14:11.886206+01:00 ubuntu-prod-01 sshd-session[12134]: Failed password for root from 10.0.2.6 port 45830 ssh2
+2026-11-18T14:14:12.342445+01:00 ubuntu-prod-01 sshd-session[12136]: Failed password for root from 10.0.2.6 port 45856 ssh2
+2026-11-18T14:14:14.454956+01:00 ubuntu-prod-01 sshd-session[12134]: Failed password for root from 10.0.2.6 port 45830 ssh2
+2026-11-18T14:14:14.746885+01:00 ubuntu-prod-01 sshd-session[12135]: Failed password for root from 10.0.2.6 port 45840 ssh2
+2026-11-18T14:14:15.911998+01:00 ubuntu-prod-01 sshd-session[12133]: Failed password for root from 10.0.2.6 port 45832 ssh2
+2026-11-18T14:14:16.869862+01:00 ubuntu-prod-01 sshd-session[12136]: Failed password for root from 10.0.2.6 port 45856 ssh2
+2026-11-18T14:14:18.036133+01:00 ubuntu-prod-01 sshd-session[12164]: Failed password for root from 10.0.2.6 port 40332 ssh2
+2026-11-18T14:14:18.196469+01:00 ubuntu-prod-01 sshd-session[12167]: Failed password for root from 10.0.2.6 port 40354 ssh2
+2026-11-18T14:14:18.292979+01:00 ubuntu-prod-01 sshd-session[12166]: Failed password for root from 10.0.2.6 port 40348 ssh2
+2026-11-18T14:14:22.215547+01:00 ubuntu-prod-01 sshd-session[12167]: Failed password for root from 10.0.2.6 port 40354 ssh2
+2026-11-18T14:14:22.217400+01:00 ubuntu-prod-01 sshd-session[12164]: Failed password for root from 10.0.2.6 port 40332 ssh2
+2026-11-18T14:14:22.218163+01:00 ubuntu-prod-01 sshd-session[12166]: Failed password for root from 10.0.2.6 port 40348 ssh2
+2026-11-18T14:14:22.218448+01:00 ubuntu-prod-01 sshd-session[12136]: Failed password for root from 10.0.2.6 port 45856 ssh2
+2026-11-18T14:14:22.544808+01:00 ubuntu-prod-01 sshd-session[12164]: Connection closed by authenticating user root 10.0.2.6 port 40332 [preauth]
+2026-11-18T14:14:22.577725+01:00 ubuntu-prod-01 sshd-session[12166]: Connection closed by authenticating user root 10.0.2.6 port 40348 [preauth]
+2026-11-18T14:14:22.578782+01:00 ubuntu-prod-01 sshd-session[12167]: Connection closed by authenticating user root 10.0.2.6 port 40354 [preauth]
+2026-11-18T14:14:22.580355+01:00 ubuntu-prod-01 sshd[3327]: srclimit_penalise: 10.0.2.6/32: activating ipv4 penalty of 19 seconds for penalty: failed authentication
+2026-11-18T14:15:01.306900+01:00 ubuntu-prod-01 sshd-session[12182]: Failed password for root from 10.0.2.6 port 38130 ssh2
+2026-11-18T14:15:02.331660+01:00 ubuntu-prod-01 sshd-session[12180]: Failed password for root from 10.0.2.6 port 38122 ssh2
+2026-11-18T14:15:02.332233+01:00 ubuntu-prod-01 sshd-session[12184]: Failed password for root from 10.0.2.6 port 38142 ssh2
+2026-11-18T14:15:02.332845+01:00 ubuntu-prod-01 sshd-session[12181]: Failed password for root from 10.0.2.6 port 38120 ssh2
+2026-11-18T14:15:04.149657+01:00 ubuntu-prod-01 sshd-session[12182]: Failed password for root from 10.0.2.6 port 38130 ssh2
+2026-11-18T14:15:05.609490+01:00 ubuntu-prod-01 sshd-session[12180]: Failed password for root from 10.0.2.6 port 38122 ssh2
+2026-11-18T14:15:05.611386+01:00 ubuntu-prod-01 sshd-session[12184]: Failed password for root from 10.0.2.6 port 38142 ssh2
+2026-11-18T14:15:07.161943+01:00 ubuntu-prod-01 sshd-session[12181]: Failed password for root from 10.0.2.6 port 38120 ssh2
+2026-11-18T14:15:07.525013+01:00 ubuntu-prod-01 sshd-session[12182]: Failed password for root from 10.0.2.6 port 38130 ssh2
+2026-11-18T14:15:08.799031+01:00 ubuntu-prod-01 sshd-session[12184]: Failed password for root from 10.0.2.6 port 38142 ssh2
+2026-11-18T14:15:09.300738+01:00 ubuntu-prod-01 sshd-session[12180]: Failed password for root from 10.0.2.6 port 38122 ssh2
+2026-11-18T14:15:09.758982+01:00 ubuntu-prod-01 sshd-session[12182]: Failed password for root from 10.0.2.6 port 38130 ssh2
+2026-11-18T14:15:10.097792+01:00 ubuntu-prod-01 sshd-session[12181]: Failed password for root from 10.0.2.6 port 38120 ssh2
+2026-11-18T14:15:12.111123+01:00 ubuntu-prod-01 sshd-session[12180]: Failed password for root from 10.0.2.6 port 38122 ssh2
+2026-11-18T14:15:12.412821+01:00 ubuntu-prod-01 sshd-session[12184]: Failed password for root from 10.0.2.6 port 38142 ssh2
+2026-11-18T14:15:15.567864+01:00 ubuntu-prod-01 sshd-session[12181]: Failed password for root from 10.0.2.6 port 38120 ssh2
+2026-11-18T14:15:15.568490+01:00 ubuntu-prod-01 sshd-session[12182]: Failed password for root from 10.0.2.6 port 38130 ssh2
+2026-11-18T14:15:15.568777+01:00 ubuntu-prod-01 sshd-session[12180]: Failed password for root from 10.0.2.6 port 38122 ssh2

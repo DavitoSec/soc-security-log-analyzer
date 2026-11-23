@@ -1,0 +1,2 @@
+ip,total_events,threat_classification,reasons,first_seen,last_seen,suspicious_events,attack_indicators
+10.0.X.X,200,scanning,User-Agent de herramienta de escaneo (17 peticiones); 195 peticiones con indicadores maliciosos; 21 respuestas 404 (fuzzing de directorios),2026-11-20T01:53:11+01:00,2026-11-20T17:33:10+01:00,195,"{""scanner_tool"": 17, ""not_found"": 21, ""sensitive_path"": 1, ""timeout"": 174}"

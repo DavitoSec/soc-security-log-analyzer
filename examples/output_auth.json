@@ -1,0 +1,43 @@
+{
+  "log_type": "auth",
+  "analyzed_lines": 150,
+  "suspicious_ips": 2,
+  "generated_at": "2026-11-23T15:58:35.784791",
+  "summary": {
+    "10.0.X.X": {
+      "total_events": 111,
+      "failed_attempts": 109,
+      "success_attempts": 2,
+      "users_targeted": [
+        "admin_backup",
+        "analista",
+        "invalid",
+        "root"
+      ],
+      "threat_classification": "possible_successful_brute_force",
+      "reasons": [
+        "109 intentos fallidos en menos de 120s",
+        "4 usuarios diferentes probados",
+        "honeytoken admin_backup atacado",
+        "múltiples fallos seguidos de un login exitoso"
+      ],
+      "first_seen": "2026-11-17T23:53:34.365637+01:00",
+      "last_seen": "2026-11-18T14:15:15.568777+01:00"
+    },
+    "127.0.X.X": {
+      "total_events": 20,
+      "failed_attempts": 20,
+      "success_attempts": 0,
+      "users_targeted": [
+        "hacker_test",
+        "invalid"
+      ],
+      "threat_classification": "brute_force",
+      "reasons": [
+        "20 intentos fallidos en menos de 120s"
+      ],
+      "first_seen": "2026-11-17T23:58:47.610480+01:00",
+      "last_seen": "2026-11-18T00:00:10.429756+01:00"
+    }
+  }
+}
